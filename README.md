@@ -5,7 +5,7 @@ Built using ReactJS, Redux Toolkit, Chart.js, Styled Components
 
 ## Deployment
 
-[Click Here]() to see my flashcard generator website.
+[Click Here](https://almabetter-cryptocurrency-dashboard.netlify.app/) to see my flashcard generator website.
 
 ## Run Locally
 
@@ -38,7 +38,6 @@ Builds the app for production to the build folder.
 - [@Jayant Pachpohe](https://github.com/jayant753)
 
 
-## Contributing:
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
