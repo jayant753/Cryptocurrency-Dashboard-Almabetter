@@ -2,24 +2,24 @@
 Cryptocurrency Dashboard
 is a web application that displays the up to date cryptocurrency data provided by CoinGecko api.
 Built using ReactJS, Redux Toolkit, Chart.js, Styled Components
-## Demo link:
-[https://cryptodashboard-ssp.netlify.app/](https://cryptodashboard-ssp.netlify.app/)
 
+## Deployment
 
-## Installation:
-This project was bootstrapped with [Create React app]((https://create-react-app.dev/docs/getting-started/))
+[Click Here]() to see my flashcard generator website.
 
-In the project directory, you can run:
+## Run Locally
+
+Install dependencies
 
 ```bash
-npm start
+  npm install
 ```
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.
-You may also see any lint errors in the console
+Start the server
 
+```bash
+  npm run start
+```
 ## Run Tests:
 ```bash
 npm test
@@ -34,7 +34,8 @@ Builds the app for production to the build folder.
 
 
 ## Author:
-Github: [@sivaprasadsingamsetti](https://github.com/singamsetti-siva-prasad)
+
+- [@Jayant Pachpohe](https://github.com/jayant753)
 
 
 ## Contributing:
